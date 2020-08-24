@@ -3,8 +3,8 @@
   "version": "1.0.7",
   "description": "React简易滑动验证组件",
   "author": "Gu Qingming <15524261@qq.com>",
-  "main": "dist/react-simple-verify.js",
-  "types": "dist/react-simple-verify.d.ts",
+  "main": "react-simple-verify.js",
+  "types": "react-simple-verify.d.ts",
   "files": [
     "dist/"
   ],
