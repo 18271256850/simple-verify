@@ -165,7 +165,6 @@
       if (diff < 0) {
         diff = 0;
       }
-      console.log(1111, this.max, diff);
       if (diff >= this.max) {
         diff = this.max;
         this.isSuccess = true;
