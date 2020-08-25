@@ -1,6 +1,6 @@
 {
   "name": "react-simple-verify",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "React简易滑动验证组件",
   "author": "Gu Qingming <15524261@qq.com>",
   "main": "dist/react-simple-verify.js",
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/guqingming/react-simple-verify.git"
+    "url": "git+https://git@github.com:18271256850/simple-verify.git"
   },
   "keywords": [
     "react",
     "verify"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/guqingming/react-simple-verify#readme",
+  "homepage": "https://git@github.com:18271256850/simple-verify#readme",
   "peerDependencies": {
     "react": ">=16.3.0",
     "react-dom": ">=16.3.0"
